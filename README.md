@@ -29,10 +29,10 @@ I build AI-powered solutions, consult on technical interviews, and contribute to
 ---
 
 ## 🛠 Tech stack
-**ML:** Transformers · LangChain · Agent  
-**Cloud:** AWS (EKS, Lambda, S3) · Kubernetes · Docker · CI/CD  
-**Optimize:** ONNX · TensorRT · Quantization · Quantilization
 **Lang:** Python · C++ · SQL  
+**ML:** Transformers · LangChain · Agent  
+**Cloud:** AWS · Kubernetes · Docker · CI/CD  
+**Optimize:** ONNX · TensorRT · Quantization
 
 ---
 
